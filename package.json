@@ -1,0 +1,27 @@
+{
+  "name": "compose-middlewares",
+  "description": "compose middlewares",
+  "repository": "rcoedo/compose-middlewares",
+  "version": "1.0.1",
+  "license": "MIT",
+  "keywords": [
+    "koa",
+    "mali",
+    "middleware",
+    "compose"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "24.9.0",
+    "prettier": "1.18.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
